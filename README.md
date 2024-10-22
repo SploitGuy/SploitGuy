@@ -43,7 +43,9 @@ My journey in cybersecurity has ignited a deep passion for the field, and I am n
 
 ## Certifications
 <div>
-<img src="[https://img.shields.io/badge/-Security%2B-FF0000](https://chirpy.cotes.page/posts/write-a-new-post/#pinned-posts)?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="[https://img.shields.io/badge/-Security%2B-FF0000]?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://chirpy.cotes.page/posts/write-a-new-post/?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+#(https://chirpy.cotes.page/posts/write-a-new-post/#pinned-posts)
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
