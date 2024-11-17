@@ -3,22 +3,6 @@
 
 I’m a cybersecurity enthusiast with a strong focus on SOC analysis, incident response, and malware analysis. I’m constantly exploring new techniques and tools to stay ahead in the ever-evolving cybersecurity landscape.
 
-## Objective
-
-My journey in cybersecurity has ignited a deep passion for the field, and I am now excited to transition fully into it. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, with a focus on incident response, SOC analysis, and malware analysis. My goal is to contribute to defending against cyber threats while continuously developing my skills in these critical areas.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
 
 ### Network
